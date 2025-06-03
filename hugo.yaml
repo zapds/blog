@@ -1,0 +1,32 @@
+baseURL: https://zapdos.me/
+enableEmoji: true
+enableRobotsTXT: true
+languageCode: en-us
+title: Yapdos
+theme: ["PaperMod"]
+menu:
+  main:
+    - identifier: mainWebsite
+      name: Home
+      url: https://zapdos.me/
+params:
+  env: production
+  description: "Yapdos: A personal blog"
+  author: "Narendhar"
+  defaultTheme: "auto"
+  showReadingTime: true
+  showCodeCopyButtons: true
+  showPostNavLinks: true
+
+
+  homeInfoParams:
+    Title: "Yapdos: My Personal Blog"
+    Content: "👋 Welcome to Yapdos, a space for random stuff that I find useful or interesting."
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/zapds"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/narendharts"
+    - name: "email"
+      url: "mailto:n4rendhar@gmail.com"
