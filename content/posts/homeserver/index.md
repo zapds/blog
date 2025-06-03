@@ -8,7 +8,7 @@ ShowToc: true
 ShowBreadCrumbs: false
 ---
 
-In this blog post, I share how I converted my old laptop into a private Google Photos alternative. It was a rewarding weekend project for tinkerers and a great way to reuse old tech meaningfully!
+In this blog post, I share how I converted my old laptop into a private Google Photos alternative. It's a rewarding weekend project for tinkerers and a great way to reuse old tech meaningfully!
 
 ## The Goal
 
